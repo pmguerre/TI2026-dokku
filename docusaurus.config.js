@@ -87,7 +87,7 @@ const config = {
         title: 'TESTE',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/undraw_docusaurus_tree.svg',
+          src: 'img/blablabla.svg',
         },
         items: [
           {
